@@ -1,0 +1,33 @@
+*{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(Img/download.jfif);
+
+}
+
+body section form button {
+    color: black;
+}
+body header section {
+    text-align: left;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.fundopreto{
+    background: black;
+    color: white;
+}
+#roxo{
+    color: purple;
+}
+.fundoazul{
+    background-color: rgba(35, 26, 167, 0.507);
+    border: 2px solid #333;
+    padding: 20px;
+}
